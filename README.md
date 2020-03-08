@@ -6,4 +6,4 @@ STep 1)Copy Bill-Ocr
 Step 2)npm install in cmd(download npm if not installed)
 Step 3)npm start
 
-![Receptive Field Block for image segementation]()
+![Receptive Field Block for image segementation](https://drive.google.com/file/d/1Yuvatiow-5seAse5bH4df4Ii-ZDGsIIi/view?usp=sharing)
